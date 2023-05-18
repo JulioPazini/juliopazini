@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Julio Pazini</h1>
-<h3 align="center">A passionate QA Automation Engineer developer from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Julio Pazini</h1>
+<h3 align="left">A passionate QA Automation Engineer developer from Brazil</h3>
 
-- 💻 QA Automation Engineer [@KaFe Rocks Group](https://kafe.rocks/) - 🇧🇷 Brazilian - 🏡 Living in Florianopolis -
-Brazil - 🇲🇹 Working for Malta - 📫 Email: juliopazini@gmail.com - ⚡ Fun fact: **People say I'm mad most of the time but
-no! That's just my face.**
+<br>- 💻 QA Automation Engineer [@KaFe Rocks Group](https://kafe.rocks/)  
+
+<br>- 🇧🇷 Brazilian  
+
+<br>- 🏡 Living in Florianopolis - Brazil 
+
+<br>- 🇲🇹 Working for Malta 
+
+<br>- 📫 Email: juliopazini@gmail.com 
+
+<br>- ⚡ Fun fact: **People say I'm mad most of the time but no! That's just my face.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
