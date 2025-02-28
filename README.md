@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Pazini</h1>
 <h3 align="center">A passionate QA Automation Engineer developer from Brazil</h3>
 
-- 💻 QA Automation Engineer [@KaFe Rocks Group](https://kafe.rocks/)  
+- 💻 QA Automation Engineer
 - 🇧🇷 Brazilian  
 - 🏡 Living in Florianopolis - Brazil  
 - 🇲🇹 Working for Malta  
